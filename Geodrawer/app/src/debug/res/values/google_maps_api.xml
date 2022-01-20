@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=E2:F7:80:5A:B1:91:02:92:5D:A5:22:C9:6D:B1:61:D9:6C:77:48:D4%3Bcom.example.geodrawer
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    com.example.geodrawer
+
+    SHA-1 certificate fingerprint:
+    E2:F7:80:5A:B1:91:02:92:5D:A5:22:C9:6D:B1:61:D9:6C:77:48:D4
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="AIzaSyCJuWDs8leXKu6e2Hi9vRbYZjatTe92mxg" templateMergeStrategy="preserve" translatable="false">YOUR_KEY_HERE</string>
+</resources>
